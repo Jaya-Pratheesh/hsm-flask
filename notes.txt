@@ -1,0 +1,1 @@
+dev server Start Command: FLASK_APP=server.py FLASK_ENV=developmen flask run
